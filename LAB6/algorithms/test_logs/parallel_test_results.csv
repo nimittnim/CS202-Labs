@@ -1,0 +1,9 @@
+Worker, Thread, Dist Mode, Execution Time (s), Failed Tests
+1, 1, load, 4.79, 0
+1, 1, no, 4.86, 0
+1, auto, load, 33.51, 4
+1, auto, no, 35.37, 4
+auto, 1, load, 5.10, 0
+auto, 1, no, 5.16, 0
+auto, auto, load, 32.49, 4
+auto, auto, no, 31.64, 4
